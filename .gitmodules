@@ -1,7 +1,7 @@
 [submodule "iced"]
 	path = iced
-	url = https://github.com/pop-os/iced.git
-	branch = master
+	url = https://github.com/leb-kuchen/iced.git
+	branch = double-click-maximize
 [submodule "examples/design-demo"]
-	path = examples/design-demo
-	url = https://github.com/pop-os/cosmic-design-demo
+path = examples/design-demo
+url = https://github.com/pop-os/cosmic-design-demo
